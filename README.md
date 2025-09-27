@@ -1,10 +1,8 @@
-# My First Star Schema in Power BI
 
-## Data Model Diagram
-![Star Schema Diagram](images/star_schema_diagram.png)
-*Figure 1: Star Schema showing Fact and Dimension tables with relationships.*
+### I implemented a Star Schema in my Power BI model to simplify relationships between fact and dimension tables and optimize query performance."
 
 ## Dashboard Screenshot
-![Power BI Dashboard](images/Dashboard.PNG)
+![Dashboard Screenshot](https://github.com/saud123/Sales-Customer-Product-Dashboard-Using-Power-BI/blob/main/Dashboard.PNG)
+
 *Figure: Final 1-page dashboard showing KPIs, charts, and slicers.*
 
