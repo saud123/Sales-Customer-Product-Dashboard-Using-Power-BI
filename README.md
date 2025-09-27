@@ -3,4 +3,4 @@
 
 ## Dashboard Screenshot
 
-![Dashboard Screenshot](https://github.com/saud123/Sales-Customer-Product-Dashboard-Using-Power-BI/blob/main/Dashboard.PNG?raw=true)
+![Dashboard Screenshot](https://raw.githubusercontent.com/saud123/Sales-Customer-Product-Dashboard-Using-Power-BI/refs/heads/main/Dashboard.PNG)
